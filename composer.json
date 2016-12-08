@@ -1,0 +1,22 @@
+{
+    "name": "julfiker/walmart-signature-php",
+    "description": "PHP library for generating auth signatures for Walmart APIs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Julfiker",
+            "email": "mail.julfiker@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3.3",
+        "phpseclib/phpseclib": "^2.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Walmart\\Lib\\": "src/lib"
+        }
+    }
+}
