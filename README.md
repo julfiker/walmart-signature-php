@@ -5,7 +5,7 @@ Generating walmart auth signatue.
 ``` sh
 composer require julfiker/walmart-signature-php:dev-master
 ```
-Just run composer require fillup/walmart-auth-signature-php:dev-master. This assumes you have composer installed and available in your path as composer.
+Just run composer require julfiker/walmart-signature-php:dev-master. This assumes you have composer installed and available in your path as composer.
 
 ## How to use
 ```php
